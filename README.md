@@ -1,8 +1,4 @@
-# React + Vite
+# React Perplex
+![image](https://github.com/Sikkepit/Perplex-React/assets/148398668/aa832b38-ba16-454b-b6e7-0050fcf3df61)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live Version https://dennishemstra.com/perplex-react/
